@@ -3,11 +3,11 @@
 
 📧 Email Me 👉 ✉️ utsabgayawali@gmail.com for collaboration, projects, or learning together 😊  
 
-- 🔭 I’m currently working on:Django backend projects 
+- 🔭 I’m currently working on: Django backend projects 
 - 🌱 **I’m currently learning:** Django, Backend Development, REST APIs, and Git/GitHub
 - 👯 **I’m looking to collaborate on:** Beginner-friendly Django / Python backend projects and open-source contributions
 - 💬 **Ask me about:** Python, Django fundamentals, CRUD operations, authentication, and backend logic
-- 📫 **How to reach me:** Email: utsabgayawali@gmail.com  
+- 📫 **How to reach me:**utsabgayawali@gmail.com  
 - 😄 **Pronouns:**  He / Him
 - ⚡ **Fun fact:**  I enjoy working on backend logic more than frontend design ⚙️😄
 
