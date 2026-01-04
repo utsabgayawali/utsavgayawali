@@ -1,3 +1,15 @@
+# 💫 Hi 👋, I'm Utsab Gayawali  
+**An aspiring Python Developer focused on Backend Development using Django**
+
+📧 Email Me 👉 ✉️ utsabgayawali@gmail.com for collaboration, projects, or learning together 😊  
+
+- 🔭 **I’m currently working on:Django backend projects 
+- 🌱 **I’m currently learning:** Django, Backend Development, REST APIs, and Git/GitHub
+- 👯 **I’m looking to collaborate on:** Beginner-friendly Django / Python backend projects and open-source contributions
+- 💬 **Ask me about:** Python, Django fundamentals, CRUD operations, authentication, and backend logic
+- 📫 **How to reach me:** Email: utsabgayawali@gmail.com  
+- 😄 **Pronouns:**  He / Him
+- ⚡ **Fun fact:**  I enjoy working on backend logic more than frontend design ⚙️😄
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/utsabgayawali) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz._utsav_07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/utsabgayawali) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:utsavgayawali@gmail.com) 
